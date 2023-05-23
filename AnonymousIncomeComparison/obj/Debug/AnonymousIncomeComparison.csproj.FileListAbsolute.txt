@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.pdb
