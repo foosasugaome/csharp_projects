@@ -8,7 +8,7 @@ namespace StudentDailyReport
         {
             // Print the header
             Console.WriteLine("Academy of Learning Career College");
-            Console.WriteLine("Student Daily Report");            
+            Console.WriteLine("Student Daily Report");
 
             // Ask and save student data
             Console.WriteLine("What is your name?");
@@ -36,6 +36,6 @@ namespace StudentDailyReport
             Console.WriteLine();
             Console.WriteLine("Thank you for your answers. An Instructor will respond shortly. Have a great day!");
             Console.ReadLine();
+
         }
-    }
 }
