@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
