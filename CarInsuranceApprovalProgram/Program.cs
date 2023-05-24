@@ -28,6 +28,9 @@ namespace CarInsuranceApprovalProgram
             // Print the result
             Console.WriteLine("Qualified? " + qualified);
 
+            bool result = (true ^ true) || (true ^ false);
+            Console.WriteLine(result);
+
             Console.ReadLine();
         }
     }
