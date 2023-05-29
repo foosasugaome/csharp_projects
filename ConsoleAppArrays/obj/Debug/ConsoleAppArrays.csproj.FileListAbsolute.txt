@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.pdb
