@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
