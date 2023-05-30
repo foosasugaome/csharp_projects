@@ -1,5 +1,7 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Messaging;
 
 
 namespace StringsAndIntegers
@@ -8,17 +10,24 @@ namespace StringsAndIntegers
     {
         static void Main()
         {
-            // Create a list of integers
+
+                //Perform these actions and create a console app that includes the following:
+                //Create a list of integers.Ask the user for a number to divide each number in the list by.Write a loop that takes each integer in the list, divides it by the number the user entered, and displays the result to the screen.
+                //Run the code, entering in non - zero numbers as the user.Look at the displayed results.
+                //Run the code again, entering in zero as the number to divide by.Note any error messages you get.
+                //Run the code once again, entering in a string as the number to divide by.Note any error messages you get.
+                //Now put the loop in a try/catch block.Below and outside of the try/catch block, make the program print a message to the display to let you know the program has emerged from the try/catch block and continued on with program execution.In the catch block, display the error message to the screen.Then try various combinations of user input: valid numbers, zero and a string.Ensure the proper error messages display on the screen, and that the code after the try/catch block gets executed.
+
+                // Create a list of integers
             List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
 
-            // Ask the user for a number to divide each number in the list by
+                // Ask the user for a number to divide each number in the list by
             bool numValid = false;
-            while (!numValid) { 
-            
-                try
-                {
-                    Console.Write("Enter a number to divide each element in the list by: ");
-                    // Parse the user input into an integer divisor
+                while (!numValid) {
+                    try
+                    {
+                        Console.Write("Enter a number to divide each element in the list by: ");
+                        // Parse the user input into an integer divisor
                     float divisor = float.Parse(Console.ReadLine());                    
 
                     if (divisor == 0) 
