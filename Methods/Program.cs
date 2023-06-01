@@ -15,16 +15,16 @@ namespace Methods
 
             // Ask the user for a number
             Console.Write("Enter a number: ");
-            int userInput = int.Parse(Console.ReadLine());
-
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            
             // Call each method and display the returned value
-            int doubledNumber = mathOperations.DoubleNumber(userInput);
+            int doubledNumber = MathOperations.DoubleNumber(userInput);
             Console.WriteLine("Double of the number: " + doubledNumber);
 
-            int squaredNumber = mathOperations.SquareNumber(userInput);
+            int squaredNumber = MathOperations.SquareNumber(userInput);
             Console.WriteLine("Square of the number: " + squaredNumber);
 
-            int factorial = mathOperations.CalculateFactorial(userInput);
+            int factorial = MathOperations.CalculateFactorial(userInput);
             Console.WriteLine("Factorial of the number: " + factorial);
 
            
