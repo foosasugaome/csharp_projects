@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\bin\Debug\MethodsOptionalParameters.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\bin\Debug\MethodsOptionalParameters.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\bin\Debug\MethodsOptionalParameters.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\obj\Debug\MethodsOptionalParameters.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\obj\Debug\MethodsOptionalParameters.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\obj\Debug\MethodsOptionalParameters.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\obj\Debug\MethodsOptionalParameters.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\MethodsOptionalParameters\obj\Debug\MethodsOptionalParameters.pdb
