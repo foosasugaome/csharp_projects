@@ -37,7 +37,26 @@ namespace TwentyOne
             }
         }
         //  Constructor end
-                
+         
         public List<Card>  Cards { get;  set;}
+
+        public void Shuffle(int times = 1)  //  assigning  a default value to a  second  parameter makes  it optional
+        {            
+            // add  a for  loop using the optional parameter
+            for (int i = 0; i < times; i++)
+            {
+         
+                List<Card> TempList = new List<Card>();
+                Random rnd = new Random();
+
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = rnd.Next(0, this.Cards.Count);
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+                }
+                this.Cards = TempList;
+            }            
+        }
     }
 }

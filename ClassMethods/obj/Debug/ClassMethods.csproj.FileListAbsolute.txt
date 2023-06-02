@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\bin\Debug\ClassMethods.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\bin\Debug\ClassMethods.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\bin\Debug\ClassMethods.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\obj\Debug\ClassMethods.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\obj\Debug\ClassMethods.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\obj\Debug\ClassMethods.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\ClassMethods\obj\Debug\ClassMethods.pdb
