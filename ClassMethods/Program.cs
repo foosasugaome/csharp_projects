@@ -23,8 +23,7 @@ using System.Threading.Tasks;
 namespace ClassMethods
 {
     internal class Program
-    {
-        // Entry point of the program
+    {       
         static void Main()
         {
             // Instantiate an object of the "Calculator" class
