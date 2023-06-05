@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\bin\Debug\Polymorphism.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\bin\Debug\Polymorphism.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\bin\Debug\Polymorphism.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\obj\Debug\Polymorphism.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Polymorphism\obj\Debug\Polymorphism.pdb

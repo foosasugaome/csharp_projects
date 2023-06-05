@@ -10,6 +10,10 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
+            TwentyOneGame game  = new TwentyOneGame();
+            game.Players = new List<string>() { "Norman", "Noah", "Julian" };
+            game.ListPlayers();
             // Create a deck of cards
             Deck deck =new Deck();
 
@@ -19,7 +23,7 @@ namespace TwentyOne
             //game.Name = "Twenty One";
 
             //  TwentyOneGame class  which inherited from Game class, TwentyOneGame class have access to Game class
-            TwentyOneGame game = new TwentyOneGame(); // Example of polymorphism.           
+            //TwentyOneGame game = new TwentyOneGame(); // Example of polymorphism.           
             game.Dealer = "Norman";
             game.Name = "Twenty One";
             game.Players = new List<string>() { "Norman", "Noah", "Julian" };
@@ -46,7 +50,7 @@ namespace TwentyOne
             
             foreach (Card card in deck.Cards) 
             {
-              //  Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(card.Face + " of " + card.Suit);
             }
             //Console.WriteLine(deck.Cards.Count);
             //Console.WriteLine("Times shuffled :  {0}", timesShuffled);
