@@ -11,9 +11,16 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
-            TwentyOneGame game  = new TwentyOneGame();
-            game.Players = new List<string>() { "Norman", "Noah", "Julian" };
-            game.ListPlayers();
+            //TwentyOneGame game  = new TwentyOneGame();
+            //game.Players = new List<string>() { "Norman", "Noah", "Julian" };
+            //game.ListPlayers();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Normnan";
+            game = game + player; // adds player, can be written as game += player
+            game = game - player; // removes player 
+
             // Create a deck of cards
             Deck deck =new Deck();
 
@@ -26,7 +33,7 @@ namespace TwentyOne
             //TwentyOneGame game = new TwentyOneGame(); // Example of polymorphism.           
             game.Dealer = "Norman";
             game.Name = "Twenty One";
-            game.Players = new List<string>() { "Norman", "Noah", "Julian" };
+            //game.Players = new List<string>() { "Norman", "Noah", "Julian" };
             game.ListPlayers();
             game.Play();  // call class specific method (twentyonegame)
 
