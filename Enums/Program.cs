@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Enums
 {
-    internal class Program
+    // Enum for the days of the week
+    enum DayOfWeek
+    {
+        Sunday,
+        Monday,
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday
+    }
+
+    class Program
     {
         static void Main(string[] args)
         {
