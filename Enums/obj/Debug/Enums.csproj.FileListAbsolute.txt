@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\bin\Debug\Enums.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\bin\Debug\Enums.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\bin\Debug\Enums.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\obj\Debug\Enums.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Enums\obj\Debug\Enums.pdb

@@ -10,6 +10,11 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            // Test enum datatype in card.cs
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue  = Convert.ToInt32(Suit.Diamonds); // The value of this is the index  of the enum datatype.
+
 
             //TwentyOneGame game  = new TwentyOneGame();
             //game.Players = new List<string>() { "Norman", "Noah", "Julian" };
@@ -34,7 +39,7 @@ namespace TwentyOne
             game.Dealer = "Norman";
             game.Name = "Twenty One";
             //game.Players = new List<string>() { "Norman", "Noah", "Julian" };
-            game.ListPlayers();
+            game.ListPlayers(); 
             game.Play();  // call class specific method (twentyonegame)
 
 
