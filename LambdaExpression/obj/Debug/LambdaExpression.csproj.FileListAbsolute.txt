@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\bin\Debug\LambdaExpression.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\bin\Debug\LambdaExpression.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\obj\Debug\LambdaExpression.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\obj\Debug\LambdaExpression.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\LambdaExpression\obj\Debug\LambdaExpression.pdb
