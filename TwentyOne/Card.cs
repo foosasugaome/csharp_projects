@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    //public class Card
+    public struct Card //  make card Struct type since it cannot be inherited from
     {
         ////Constructor to set default values
         //public Card() 

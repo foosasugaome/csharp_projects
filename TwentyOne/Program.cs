@@ -23,8 +23,8 @@ namespace TwentyOne
             game.Players = new List<Player>();
             Player player = new Player();
             player.Name = "Normnan";
-            game = game + player; // adds player, can be written as game += player
-            game = game - player; // removes player 
+            //game = game + player; // adds player, can be written as game += player
+            //game = game - player; // removes player 
 
             // Create a deck of cards
             Deck deck =new Deck();
