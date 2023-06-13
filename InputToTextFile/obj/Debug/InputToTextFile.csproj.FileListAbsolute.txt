@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\bin\Debug\InputToTextFile.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\bin\Debug\InputToTextFile.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\bin\Debug\InputToTextFile.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\obj\Debug\InputToTextFile.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\obj\Debug\InputToTextFile.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\obj\Debug\InputToTextFile.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\obj\Debug\InputToTextFile.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\InputToTextFile\obj\Debug\InputToTextFile.pdb
