@@ -22,6 +22,7 @@ namespace TwentyOne
             //clean by memory manager
             using (StreamWriter file = new StreamWriter(@"D:\Logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
 
