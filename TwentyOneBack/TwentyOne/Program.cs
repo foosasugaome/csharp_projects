@@ -1,7 +1,5 @@
 ﻿using System;
 using System.IO;
-using Casino;
-using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -11,7 +9,7 @@ namespace TwentyOne
         {
             //string text = "Here is some text.";
             //File.WriteAllText(@"D:\Logs\log.txt", text); //Write text
-            //string text = File.ReadAllText(@"D:\Logs\log.txt"); // Read text
+            string text = File.ReadAllText(@"D:\Logs\log.txt"); // Read text
 
             Console.WriteLine("Welcome to the Grand Hotel Casino.Let's start by telling your name.");
             string playerName =Console.ReadLine();
