@@ -13,7 +13,13 @@ namespace TwentyOne
             //File.WriteAllText(@"D:\Logs\log.txt", text); //Write text
             //string text = File.ReadAllText(@"D:\Logs\log.txt"); // Read text
 
-            Console.WriteLine("Welcome to the Grand Hotel Casino.Let's start by telling your name.");
+            const string casinoName = "Grand Hotel Casino";
+
+            Guid identifier = Guid.NewGuid(); // Globally Unique Identifier
+
+            Player newPlayer = new Player("Norman"); // C# now allows to implicitely declare variables. eg.   var newPlayer = new Player("Norman"); would  work. it is good practice to explicitly  declare variables for  readability.
+
+            Console.WriteLine("Welcome to the {0}.Let's start by telling your name.", casinoName);
             string playerName =Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank =  Convert.ToInt32(Console.ReadLine());
@@ -22,6 +28,13 @@ namespace TwentyOne
             if (answer == "yes" ||  answer == "yeah" || answer == "y") 
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                // Log player GUID
+                using (StreamWriter file = new StreamWriter(@"D:\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                    
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

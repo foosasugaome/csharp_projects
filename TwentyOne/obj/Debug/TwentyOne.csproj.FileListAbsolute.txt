@@ -6,6 +6,6 @@
 \\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\bin\Debug\TwentyOne.pdb
 \\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\obj\Debug\TwentyOne.exe
 \\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\obj\Debug\TwentyOne.pdb
-\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\bin\Debug\Casino.dll
 \\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\bin\Debug\Casino.pdb
 \\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\TwentyOne\bin\Debug\Casino.dll

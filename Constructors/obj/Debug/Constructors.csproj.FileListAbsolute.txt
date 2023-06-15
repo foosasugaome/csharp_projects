@@ -1,0 +1,8 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\bin\Debug\Constructors.exe.config
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\bin\Debug\Constructors.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\bin\Debug\Constructors.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\obj\Debug\Constructors.exe
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Constructors\obj\Debug\Constructors.pdb
